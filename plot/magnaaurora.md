@@ -96,6 +96,6 @@ Oprócz tego każdy z tej trójki będzię na boku używał magię zwykłych kar
     - Karta Złości
     - Karta Równowagi
 ---
-gfgfdfg
+# blablabla
 
 
