@@ -2,7 +2,7 @@
 ---
 ## Szkielet fabuły:
 ### Powstanie świata i początek uniwersum:
-Świat na początku swego instnienia pogrążony był w chaosie. Był przestrzenią, bez określonej formy, na którą składała nieokreślona bezkrztałtna materia, którą później mędrcy i uczeni zwali magią pierwotną. Magia pierwotna występowała w dwóch przeciwnych do siebie odmianach:
+Świat na początku swego istnienia pogrążony był w chaosie. Był przestrzenią, bez określonej formy, na którą składała nieokreślona bezkrztałtna materia, którą później mędrcy i uczeni zwali magią pierwotną. Magia pierwotna występowała w dwóch przeciwnych do siebie odmianach:
 
  - Lux (światło) - Życiodajna, lecz niebezpieczna energia. Z natury chaotyczna i destrukcyjna. (Będzie ona korzeniem dla żywiołów ognia, wiatru, światła i słońca).
  - Tenebris (ciemność) - Zrównowarzona energia, z natury spokojna, lecz nieustępliwa. (Będzie ona korzeniem dla żywiołów wody, ziemi, ciemności i księżyca).
