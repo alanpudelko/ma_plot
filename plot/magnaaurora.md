@@ -97,4 +97,6 @@ Oprócz tego każdy z tej trójki będzię na boku używał magię zwykłych kar
     - Karta Równowagi
 ---
 
+# sdlkfjdsojf
+
 
